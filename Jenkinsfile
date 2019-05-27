@@ -16,7 +16,7 @@ stages{
 
         stage('\u2778'){
         steps{
-        echo '\u2778 Stage'
+        echo '\u2778 Stage...bla'
         }
     }
 }
