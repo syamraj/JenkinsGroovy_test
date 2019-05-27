@@ -13,5 +13,11 @@ stages{
         echo '\u2777 Stage'
         }
     }
+
+        stage('\u2778'){
+        steps{
+        echo '\u2778 Stage'
+        }
+    }
 }
 }
