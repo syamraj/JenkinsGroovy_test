@@ -3,13 +3,13 @@ pipeline{
 
 stages{
     stage('\u2776'){
-        step{
+        steps{
         echo '\u2776 Stage'
         }
     }
 
     stage('\u2777'){
-        step{
+        steps{
         echo '\u2777 Stage'
         }
     }
