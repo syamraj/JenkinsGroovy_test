@@ -1,11 +1,11 @@
 pipeline{
     agent any
 
-    stages('\u2776'){
+    stage('\u2776'){
         echo '\u2776 Stage'
     }
 
-    stages('\u2777'){
+    stage('\u2777'){
         echo '\u2777 Stage'
     }
 }
